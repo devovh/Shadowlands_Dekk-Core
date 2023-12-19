@@ -1,0 +1,1 @@
+DELETE FROM world_state_value;

@@ -1,0 +1,14 @@
+for creature_template convert:
+
+need to remove 14x   0 value before 'SmartAI' value 
+and the second 0 to back from scriptname
+
+it's because creature_template_spell contains now the npc spells! and other things changed
+if u (obiously me) see a big number in the 14 value before smartai it's spell so need to add to creature_template_spell
+
+
+
+for smart_scripts convert:
+
+add one more 0 value before comment column (last) 
+its the orientation column which is added recently

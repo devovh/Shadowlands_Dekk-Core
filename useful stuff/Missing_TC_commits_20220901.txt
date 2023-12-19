@@ -1,0 +1,4 @@
+
++ b1c0bc53726b4825efce2fde5a2f6c95dc58d5f5 Scripts/Pandaria: Fixed The Lesson of Stifled Pride (#28128)
+
+
