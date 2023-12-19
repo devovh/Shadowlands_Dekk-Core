@@ -9,7 +9,7 @@ For sql updates use \sql\dekkcore\ folder!
 All this for being able to use db auto update & availability to merge with TrinityCore!
 
 [Database]
-https://mega.nz/file/dDpzGT7T#2MZCOXFzpxwAkNQgnG3sWnP7WhrrNr79wQyEuGIkck8
+https://github.com/devovh/Shadowlands_Dekk-Core/tree/main/sql/full_DB
 
 [Client Data]
 Use extractors
