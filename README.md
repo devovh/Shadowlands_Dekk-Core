@@ -1,6 +1,6 @@
 # DekkCore - Project Zereth (2022)
 A World of Warcraft Shadowlands emulator. (Always on latest patch.)
-
+Download this source - mega.nz: https://mega.nz/file/Y9A0VYhT#r75KOrgFdKaV2dbjw_VPx7X1w6uFcP7X1ExgSIJ6200
 --------------
 
 *Note:
